@@ -2,6 +2,6 @@
     <string name="app_name">BMI Calculator</string>
 
         <string
-            name="github">Copyright © ICT602 <a href=" https://github.com/afifah-nordin/BMICalculator.git">GitHub</a></string>
+            name="github"><a href=" https://github.com/afifah-nordin/BMICalculator.git">GitHub</a></string>
 
 </resources>
