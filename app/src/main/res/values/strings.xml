@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+
+        <string
+            name="github">Copyright © ICT602 <a href=" https://github.com/"> <b>GitHub</b></a></string>
+
+</resources>
